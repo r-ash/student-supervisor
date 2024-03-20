@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.coverage*
+.idea
+/dist
+docs/_build
